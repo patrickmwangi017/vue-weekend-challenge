@@ -16,17 +16,13 @@ import About from "./components/About";
 import Milestones from "./components/Milestones";
 import WhatWeDo from "./components/WhatWeDo";
 import Header from "./components/Header";
-import Services from "./components/Services";
-import Team from "./components/Team";
 export default {
   name: "App",
   components: {
     About,
     Milestones,
     WhatWeDo,
-    Header,
-    Services,
-    Team
+    Header
   },
   data() {
     return {
@@ -47,15 +43,8 @@ export default {
           {
             name: "Milestones",
             props: {}
-          },
-          {
-            name: "Team",
-            props: {}
-          },
-          {
-            name: "Services",
-            props: {}
           }
+          
         ]
       }
     };

@@ -5,11 +5,31 @@
       <div class="md:w-5/12 pl-24">
         <div class="w-full md:w-12/12 ml-auto mr-auto px-4 md:pl-5 py-10 text-left bg-white">
           <p class="color-black font-bold text-3xl pl-6">Milestones</p>
-          <p class="font-bold py-2 pl-6 text-base leading-relaxed">Founded in 2015</p>
-          <p class="font-bold py-2 pl-6 text-base leading-relaxed">Founded in 2015</p>
-          <p class="font-bold py-2 pl-6 text-base leading-relaxed">Founded in 2015</p>
-          <p class="font-bold py-2 pl-6 text-base leading-relaxed">Founded in 2015</p>
-          <p class="font-bold py-2 pl-6 text-base leading-relaxed">Founded in 2015</p>
+          <div class="flex font-bold py-2 pl-6 text-base leading-relaxed">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 pr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>Founded in 2015
+          </div>
+          <div class="flex font-bold py-2 pl-6 text-base leading-relaxed">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 pr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>Founded in 2015
+          </div>
+          <div class="flex font-bold py-2 pl-6 text-base leading-relaxed">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 pr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>Founded in 2015
+          </div>
+          <div class="flex font-bold py-2 pl-6 text-base leading-relaxed">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 pr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>Founded in 2015
+          </div>
+          <div class="flex font-bold py-2 pl-6 text-base leading-relaxed">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 pr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>Founded in 2015
+          </div>
           <img src="../assets/lightbulb-icon-260nw-383178115.png" alt="">
         </div>
       </div>
